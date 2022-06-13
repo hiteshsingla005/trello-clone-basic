@@ -1,0 +1,10 @@
+body {
+  background-color: #113752;
+}
+.App {
+  font-family: sans-serif;
+  display: flex;
+}
+.App > button {
+  height: 20px;
+}
